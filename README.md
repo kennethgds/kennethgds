@@ -9,4 +9,4 @@
 - 🔭 I’m currently working as a Site Reliability Engineer @ [Pearson](https://www.pearson.com/)
 - 🌱 I’m currently learning to be a professional Cloud Architect
 - 💬 Ask me about Terraform, Jenkins, AWS, Bash, Python, Docker, MongoDB
-- 📫 You can hit me up on [Gmail](kennethgds@gmail.com) or [LinkedIn](www.linkedin.com/in/kennygd) 
+- 📫 You can hit me up on <kennethgds@gmail.com> or [LinkedIn](www.linkedin.com/in/kennygd) 
